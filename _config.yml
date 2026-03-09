@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Economic, Social and Demographic Historian"
   location         : "Belfast, UK"
-  employer         : "QUB"
+  employer         : "Queen's University Belfast"
   uri              : # URL
-  email            : "joris.kok@ru.nl" 
+  email            : "j.kok@qub.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gt1lSBQAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0004-8190-5414"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
